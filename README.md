@@ -1,8 +1,10 @@
 # 10-Hours-Far-filed-Noise-Speech-Data-in-Home-Environment-by-Mic-Array
-https://www.datatang.ai/datasets/255
+
 
 ## Description
 The data consists of multiple sets of products, each with a different type of microphone arrays. Noise data is collected from real home scenes of the indoor residence of ordinary residents. The data set can be used for tasks such as voice enhancement and automatic speech recognition in a home scene.
+
+For more details, please refer to the link: https://bit.ly/3SeiKL8
 
 ## Format
 Microphone array 48kHz 32bit(Floating point)
@@ -24,3 +26,6 @@ MEMS microphone array
 
 ## Application Scene
 speech enhancement under household scene,and speech recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
