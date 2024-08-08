@@ -4,7 +4,7 @@
 ## Description
 The data consists of multiple sets of products, each with a different type of microphone arrays. Noise data is collected from real home scenes of the indoor residence of ordinary residents. The data set can be used for tasks such as voice enhancement and automatic speech recognition in a home scene.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/255?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/255?source=Github
 
 
 ## Format
